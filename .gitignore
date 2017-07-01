@@ -1,6 +1,5 @@
 *.json
 *.tfmodel
 *.ckpt
-*.png
 *.txt
 .ipynb_checkpoints/
